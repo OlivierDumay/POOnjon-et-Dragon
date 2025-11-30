@@ -26,7 +26,7 @@ Certaines fonctionalités ne sont pas encore implémentés mais le jeu est fonct
 ### Cloner le depot sur sa machine:
 
 ```bash
-    git clone https://github.com/Onefrenchboi/DOOjons-Et-Dragons.git
+    git clone https://github.com/OlivierDumay/POOnjon-et-Dragon.git
 ```
 Sur un framework, comme IntelliJ:
 - Chercher le fichier src/Main
